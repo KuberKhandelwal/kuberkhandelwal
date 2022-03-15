@@ -3,17 +3,16 @@
 <h3 align="center">Student|Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuberkhandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="kuberkhandelwal" /> </p>
+<img align="right"  alt="Coding" width="400" src="https://github.com/KuberKhandelwal/kuberkhandelwal/blob/main/image_processing20210918-17862-nvbxxl.gif">
 
-- 📝 I regularly write articles on [https://senosiderhelp.blogspot.com/](https://senosiderhelp.blogspot.com/)
+- 👨‍💻 I regularly write articles on [https://senosiderhelp.blogspot.com/](https://senosiderhelp.blogspot.com/)
 
 - 📫 How to reach me **kuberkhandelwal2017@gmail.com**
-
-<img align="right"  alt="Coding" width="500" src="https://github.com/KuberKhandelwal/kuberkhandelwal/blob/main/image_processing20210918-17862-nvbxxl.gif">
-
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuberkhandelwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuberkhandelwal/" height="30" width="40" /></a>
