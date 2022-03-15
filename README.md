@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](1.png)
 <h1 align="center">Hi 👋, I'm Kuber Khandelwal</h1>
 <h3 align="center">Student|Developer</h3>
 
